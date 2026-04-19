@@ -5,7 +5,7 @@
 
 ---
 
-# B1. Problem Formulation — 8 marks
+# B1. Problem Formulation 
 
 ## (a) Machine Learning Problem Formulation
 
@@ -157,7 +157,7 @@ Segmented models:
 
 ---
 
-# B2. Data and EDA Strategy — 10 marks
+# B2. Data and EDA Strategy 
 
 ## (a) Joining the Tables
 
@@ -354,7 +354,7 @@ promotion_active (0 / 1)
 
 ---
 
-# B3. Model Evaluation and Deployment — 12 marks
+# B3. Model Evaluation and Deployment
 
 ## (a) Train-Test Split Strategy
 
